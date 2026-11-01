@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-community
+pypdf #Reading the pdf documents
+pymupdf
+sentence-transformers 
+faiss-cpu
+chromadb
+langchain-google
+python-dotenv
