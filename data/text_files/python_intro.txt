@@ -1,0 +1,2 @@
+LangChain helps developers build LLM applications, with through a standard interface for all LLMs,
+a framework for building applications that use LLMs, and integrations with other sources of data."

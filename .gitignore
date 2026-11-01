@@ -1,0 +1,29 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+__pycache__/
+*.pyc
+
+#Adding Env variable and the API Key
+
+.env
+.env.*
+!.env.example
+
+
+#Vector DB
+
+data/vector_store/
+faiss_store/
+
+
+#Jupiter Notebook
+
+.ipynb_checkpoints/
