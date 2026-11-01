@@ -524,20 +524,6 @@ To contribute:
 
 ---
 
-## 16. License
-
-No open-source license has been selected yet.
-
-If you intend to allow others to reuse, modify, and distribute this project, consider adding an appropriate license such as the MIT License.
-
----
-
-## Author
-
-**Sai Akshay Gandlapalli**
-
-GitHub: [YOUR_GITHUB_PROFILE](https://github.com/YOUR_USERNAME)
-
 ---
 
 *Built to explore and implement Retrieval-Augmented Generation, semantic search, vector databases, and LLM-powered applications.*
