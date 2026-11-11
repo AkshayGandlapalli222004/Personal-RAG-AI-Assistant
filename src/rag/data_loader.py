@@ -19,6 +19,7 @@ def load_all_documents(data_dir: str) -> List[Any]:
 
     
     
+    
     # PDF Files
 
     pdf_files = list(data_path.glob('**/*.pdf'))
